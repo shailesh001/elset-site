@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Elset privacy policy
 
-Last updated: [date]
+Last updated: 17th October 2026
 
 Elset is a satellite tracker made by [seller name]. It has no accounts, no advertising, no analytics and no tracking, and it has no server of its own. We do not collect any personal data.
 
