@@ -9,7 +9,7 @@ Elset puts every active satellite on a live 3D globe and tells you when to look 
 
 ## Contact
 
-Email: elset@move373.com Please include your device, its iOS/iPadOS or macOS version, and the Elset version (Settings ▸ About).
+Email: [Link Text](mailto:elset@move373.com). Please include your device, its iOS/iPadOS or macOS version, and the Elset version (Settings ▸ About).
 
 Privacy policy: [Elset privacy policy](privacy/)
 
