@@ -36,6 +36,6 @@ Elset is suitable for all ages and collects no data from anyone.
 
 ## Changes and contact
 
-If this policy changes, the new version will be posted here with a new date. Questions: [Mail](mailto:elset@move373.com).
+If this policy changes, the new version will be posted here with a new date. Questions: (mailto:elset@move373.com).
 
 [Back to support](../)
